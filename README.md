@@ -24,8 +24,10 @@
 
 </div><br>
 
-Eu gosto muito de estudar essa area front-end sou um apaixonado pelo oque eu faço, no momento estou iniciando os estudos em react js e mais pra frente desejo colocar aqui os meu projetos mais elaborados e tambem partir para o node js
+Oie, seja bem vindo(A) ao meu repositorio 🤓
+aqui tu vai encontrar algums projetos bacanas 
+e um pouco do que venho estudando no momento🤖🧠
 
-A maioria dos projetos que estâo aqui são totalmente com a minha logica e criatividade.
+Meu Linkedln: https://www.linkedin.com/in/glaudson-nunes-97b60022b
 
 contato direto: nunesglaudson235@gmail.com
